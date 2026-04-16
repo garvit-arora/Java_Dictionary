@@ -1,9 +1,6 @@
 package com.dictionary.models;
 
-/**
- * Concrete implementation of a dictionary entry.
- * Demonstrates classes, instances, and inheritance/interface principles.
- */
+
 public class WordDetail implements DictionaryEntry {
     private String word;
     private String meaning;

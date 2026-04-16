@@ -10,10 +10,6 @@ import java.io.InputStreamReader;
 import java.util.Hashtable;
 import java.util.StringTokenizer;
 
-/**
- * Manages the dictionary data using Hashtable from Collection API (Unit IV).
- * Uses I/O Streams and StringTokenizer (Unit II & IV).
- */
 public class DictionaryStore {
     private Hashtable<String, DictionaryEntry> wordMap;
 
@@ -28,7 +24,7 @@ public class DictionaryStore {
             
             String line;
             while ((line = reader.readLine()) != null) {
-                // Using StringTokenizer as per Unit II syllabus
+              
                 StringTokenizer tokenizer = new StringTokenizer(line, "|");
                 if (tokenizer.countTokens() >= 4) {
                     String word = tokenizer.nextToken().trim();
