@@ -1,0 +1,50 @@
+Abandon|Give up completely|Desert, Forsake|Keep, Retain
+Ability|Possession of the means or skill to do something|Skill, Talent|Inability, Incapacity
+Abundant|Existing or available in large quantities|Plentiful, Ample|Scarce, Meager
+Accurate|Correct in all details|Precise, Exact|Inaccurate, Wrong
+Active|Engaging or ready to engage in physically energetic pursuits|Energetic, Lively|Passive, Sedentary
+Adapt|Make suitable for a new use or purpose|Adjust, Modify|Disrupt, Neglect
+Adore|Love and respect deeply|Cherish, Love|Hate, Detest
+Advantage|A condition or circumstance that puts one in a favorable position|Benefit, Gain|Disadvantage, Loss
+Afraid|Feeling fear or anxiety|Fearful, Scared|Brave, Confident
+Aggressive|Ready or likely to attack or confront|Hostile, Belligerent|Peaceful, Gentle
+Always|At all times|Forever, Constantly|Never, Seldom
+Amateur|A person who engages in a pursuit on an unpaid rather than a professional basis|Beginner, Novice|Professional, Expert
+Ancient|Belonging to the very distant past|Old, Antique|Modern, New
+Angry|Feeling or showing strong annoyance|Furious, Irritated|Calm, Happy
+Answer|A thing said, written, or done to deal with a question|Reply, Respond|Question, Query
+Arrive|Reach a destination|Reach, Come|Depart, Leave
+Arrogant|Having or revealing an exaggerated sense of one's own importance|Haughty, Proud|Humble, Modest
+Artificial|Made or produced by human beings rather than occurring naturally|Fake, Synthetic|Natural, Real
+Attain|Succeed in achieving|Achieve, Reach|Fail, Lose
+Attractive|Pleasing or appealing to the senses|Beautiful, Appealing|Ugly, Repulsive
+Awesome|Extremely impressive or daunting|Amazing, Grand|Bad, Awful
+Awful|Very bad or unpleasant|Terrible, Dreadful|Wonderful, Pleasant
+Beautiful|Pleasing the senses or mind aesthetically|Pretty, Lovely|Ugly, Plain
+Begin|Start; perform the first part of an action|Start, Commenced|End, Finish
+Benevolent|Well meaning and kindly|Kind, Generous|Malevolent, Mean
+Better|More desirable, satisfactory, or effective|Superior, Finer|Worse, Inferior
+Big|Of considerable size, extent, or intensity|Large, Huge|Small, Tiny
+Bitter|Having a sharp, pungent taste or smell|Sour, Tart|Sweet, Sugary
+Brave|Ready to face and endure danger or pain|Courageous, Bold|Cowardly, Timid
+Brief|Of short duration|Short, Concise|Long, Extended
+Bright|Giving out or reflecting a lot of light|Shining, Radiant|Dark, Dull
+Busy|Having a great deal to do|Occupied, Active|Idle, Free
+Calm|Not showing or feeling nervousness, anger, or other strong emotions|Peaceful, Quiet|Stormy, Agitated
+Careful|Making sure of avoiding potential danger|Cautious, Prudent|Careless, Reckless
+Cheap|Low in price|Inexpensive, Budget|Expensive, Costly
+Clean|Free from dirt, marks, or stains|Spotless, Pure|Dirty, Filthy
+Clever|Quick to understand, learn, and devise ideas|Smart, Intelligent|Stupid, Dull
+Cold|At a low temperature|Chilly, Frigid|Hot, Warm
+Complex|Consisting of many different and connected parts|Complicated, Intricate|Simple, Easy
+Confident|Feeling or showing certainty in oneself|Sure, Certain|Insecure, Doubtful
+Cruel|Willfully causing pain or suffering to others|Mean, Harsh|Kind, Gentle
+Dangerous|Able or likely to cause harm or injury|Risky, Unsafe|Safe, Secure
+Dark|With little or no light|Dim, Gloomy|Light, Bright
+Decline|Become smaller, fewer, or less; decrease|Decrease, Drop|Increase, Rise
+Delicate|Very fine in texture or structure|Fragile, Soft|Robust, Strong
+Delicious|Highly pleasant to the taste|Tasty, Savory|Distasteful, Yucky
+Depart|Leave, typically in order to start a journey|Leave, Exit|Arrive, Stay
+Different|Not the same as another or each other|Unusual, Diverse|Same, Similar
+Easy|Achieved without great effort|Simple, Effortless|Difficult, Hard
+Elegant|Pleasingly graceful and stylish in appearance or manner|Graceful, Stylish|Clumsy, Inelegant
